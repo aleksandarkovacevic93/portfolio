@@ -24,7 +24,7 @@ AppAsset::register($this);
 
 
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="shortcut icon" href="../../images/favicon.ico"  type="image/x-icon">
 
     <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
@@ -59,18 +59,13 @@ AppAsset::register($this);
 <body>
 <?php $this->beginBody() ?>
 
-<div class="colorlib-page">
-
-<!--    $this->render('header')-->
-
-    <div class="container-wrap">
-
-
-
-        <?= Alert::widget() ?>
-        <?= $content ?>
+    <div class="colorlib-page">
+    <!--    $this->render('header')-->
+        <div class="container-wrap">
+            <?= Alert::widget() ?>
+            <?= $content ?>
+        </div>
     </div>
-</div>
 
 
 

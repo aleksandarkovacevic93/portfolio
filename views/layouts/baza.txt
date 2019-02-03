@@ -1,0 +1,65 @@
+main+
+favicon.ico
+=================================
+index+
+title
+slika about.jpg
+ime i prezime
+oblast
+zemlja
+=================================
+navbar moze statican+
+=================================
+navbar footer+
+linkovi ka drustvenim mrezama
+facebook
+twitter
+instagram
+linkedin
+=================================
+home+
+slika img_bg_1.jpg
+ime
+slika img_bg_2.jpg
+oblast
+=================================
+about+
+ime i prezime
+opis
+-------------
+services+
+title
+1+
+===================================
+services+
+title
+desc
+===================================
+counters+
+title
+count
+===================================
+skills+
+title
+procent
+===================================
+education+
+title
+desc
+===================================
+experience+
+title
+date
+desc
+===================================
+work+
+count
+title
+===================================
+blog+
+===================================
+contact+
+mail
+adres
+telefon
+===================================

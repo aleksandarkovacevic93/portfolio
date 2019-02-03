@@ -25,7 +25,7 @@ class AppAsset extends AssetBundle
         'css/animate.css',
         'css/icomoon.css',
         'css/flexslider.css',
-        'css/fonts/flaticon/font/flaticon.css',
+        'fonts/flaticon/font/flaticon.css',
         'css/owl.carousel.min.css',
         'css/owl.theme.default.min.css',
         'css/style.css',
