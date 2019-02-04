@@ -47,7 +47,7 @@ $this->title = 'Ivan Demirovic';
             <?=$this->render('work')?>
 
 
-<!--            --><?/*=$this->render('blog')*/?>
+                <!--=$this->render('blog')-->
 
 
             <?=$this->render('contact')?>

@@ -20,39 +20,56 @@ linkedin
 home+
 slika img_bg_1.jpg
 ime
+Download CV
 slika img_bg_2.jpg
 oblast
+View Portfolio
 =================================
 about+
 ime i prezime
 opis
 -------------
 services+
+color
+icon
 title
 1+
 ===================================
 services+
+color
+icon
 title
 desc
 ===================================
 counters+
-title
+slika cover_bg_1.jpg
 count
+title
 ===================================
 skills+
+desc
 title
+color
 procent
 ===================================
 education+
+id
 title
 desc
 ===================================
 experience+
+color
+link
 title
 date
 desc
 ===================================
 work+
+link
+title
+slika img-1.jpg
+link
+title
 count
 title
 ===================================
