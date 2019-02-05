@@ -1,3 +1,8 @@
+<?php
+
+use yii\helpers\Url;
+
+?>
 <div id="colorlib-counter" class="colorlib-counters" style="background-image: url(<?=Url::to('@web/')?>images/cover_bg_1.jpg);" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="colorlib-narrow-content">

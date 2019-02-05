@@ -1,3 +1,8 @@
+<?php
+
+use yii\helpers\Url;
+
+?>
 <section id="colorlib-hero" class="js-fullheight" data-section="home">
     <div class="flexslider js-fullheight">
         <ul class="slides">
