@@ -22,7 +22,7 @@ AppAsset::register($this);
     
 
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-    <link rel="shortcut icon" href="../../images/favicon.ico"  type="image/x-icon">
+    <link rel="shortcut icon" href="images/favicon.ico"  type="image/x-icon">
 
     <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
@@ -36,7 +36,7 @@ AppAsset::register($this);
     <!-- Flexslider  -->
     <link rel="stylesheet" href="css/flexslider.css">
     <!-- Flaticons  -->
-    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+    <!--<link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">-->
     <!-- Owl Carousel -->
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
