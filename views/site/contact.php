@@ -13,7 +13,7 @@
                         <i class="icon-globe-outline"></i>
                     </div>
                     <div class="colorlib-text">
-                        <p><a href="#">info@domain.com</a></p>
+                        <p><a href="#">ikimj420@gmail.com</a></p>
                     </div>
                 </div>
 

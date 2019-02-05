@@ -1,17 +1,17 @@
 main+
-favicon.ico
+favicon.ico--
 =================================
 index+
-title
+ime i prezime--
 slika about.jpg
-ime i prezime
-oblast
-zemlja
+ime i prezime--
+oblast--
+zemlja--
 =================================
 navbar moze statican+
 =================================
 navbar footer+
-linkovi ka drustvenim mrezama
+linkovi ka drustvenim mrezama--
 facebook
 twitter
 instagram
@@ -19,64 +19,64 @@ linkedin
 =================================
 home+
 slika img_bg_1.jpg
-ime
-Download CV
+ime--
+Download CV--
 slika img_bg_2.jpg
-oblast
+oblast--
 View Portfolio
 =================================
 about+
-ime i prezime
-opis
+ime i prezime--
+opis--
 -------------
 services+
-color
-icon
-title
+color--
+icon--
+title--
 1+
 ===================================
 services+
-color
-icon
-title
-desc
+color--
+icon--
+title--
+desc--
 ===================================
 counters+
 slika cover_bg_1.jpg
-count
-title
+count--
+title--
 ===================================
 skills+
-desc
-title
-color
-procent
+desc--
+title--
+color--
+procent--
 ===================================
 education+
-id
-title
-desc
+id--
+title--
+desc--
 ===================================
 experience+
-color
-link
-title
-date
-desc
+color--
+link--
+title--
+date--
+desc--
 ===================================
 work+
-link
-title
+link--
+title--
 slika img-1.jpg
-link
-title
-count
-title
+link--
+title--
+count--
+title--
 ===================================
 blog+
 ===================================
 contact+
-mail
-adres
-telefon
+mail--
+adres--
+telefon--
 ===================================

@@ -1,5 +1,7 @@
 <?php
 
+use yii\helpers\Url;
+
 /* @var $this yii\web\View */
 
 $this->title = 'Ivan Demirovic';
@@ -8,7 +10,7 @@ $this->title = 'Ivan Demirovic';
 
         <aside id="colorlib-aside" role="complementary" class="border js-fullheight">
             <div class="text-center">
-                <div class="author-img" style="background-image: url(images/about.jpg);"></div>
+                <div class="author-img" style="background-image: url(<?=Url::to('@web/')?>images/about.jpg);"></div>
                 <h1 id="colorlib-logo"><a href="index.php">Ivan Demirovic</a></h1>
                 <span class="position">PHP Developer from Serbia</span>
             </div>
